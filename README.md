@@ -40,3 +40,5 @@ LinkedIn
 <a href="https://erictim-portfolio.netlify.app/" target="_blank"> 
 Portfolio Website
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricTimRusssell&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
