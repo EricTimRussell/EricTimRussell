@@ -33,4 +33,4 @@ Database and Hosting Knowlegde
 About Me
 </h2>
  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn]
