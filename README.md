@@ -47,6 +47,10 @@ What I am Learning and Improving
   <li>Vue Ecosystem</li>
 </ul>
 
+
+<h2>
+Contacts
+</h2>
 <a href="https://www.linkedin.com/in/eric-tim-russell/">
 LinkedIn
 </a>
