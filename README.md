@@ -36,6 +36,7 @@ About Me
 <a href="https://www.linkedin.com/in/eric-tim-russell/" target="_blank"> 
 LinkedIn
 </a>
+
 <a href="https://erictim-portfolio.netlify.app/" target="_blank"> 
 Portfolio Website
 </a>
