@@ -41,4 +41,4 @@ LinkedIn
 Portfolio Website
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricTimRusssell&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricTimRussell)](https://github.com/EricTimRussell/github-readme-stats)
