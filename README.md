@@ -52,9 +52,9 @@ What I am Learning and Improving
 Contacts
 </h2>
 <a href="https://www.linkedin.com/in/eric-tim-russell/">
-LinkedIn
+💼LinkedIn
 </a>
 
 <a href="https://erictim-portfolio.netlify.app/" target="_blank"> 
-Portfolio Website
+🌐Portfolio Website
 </a>
