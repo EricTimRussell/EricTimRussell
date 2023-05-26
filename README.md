@@ -33,12 +33,10 @@ Database and Hosting Knowlegde
 About Me
 </h2>
 
-<a href="https://www.linkedin.com/in/eric-tim-russell/" target="_blank"> 
+<a href="https://www.linkedin.com/in/eric-tim-russell/">
 LinkedIn
 </a>
 
 <a href="https://erictim-portfolio.netlify.app/" target="_blank"> 
 Portfolio Website
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricTimRussell)](https://github.com/EricTimRussell/github-readme-stats)
