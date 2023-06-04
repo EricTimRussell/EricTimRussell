@@ -30,7 +30,7 @@ About Me
 </h2>
 
 <p>
- 👋Hello there! I am a professionally trained junior software developer thanks to the great teachers at CodeWorks Boise. I have gained the skills and confidence I need from them to pursue my developer goals. 
+ 👋Hello there! I am a professionally trained junior software developer thanks to the great teachers at CodeWorks Boise. I have gained the skills and confidence I need from them to pursue my developer goals.
  </p>
 
 <h2>
@@ -54,3 +54,7 @@ Contacts
 <a href="https://erictim-portfolio.netlify.app/" target="_blank"> 
 🌐Portfolio Website
 </a>
+
+ <p>
+ On a more personal level I enjoying creating models to print on my 3d printer. I am currently working on developing my own military strategy board game where I am 3d printing all the pieces. My wife came up with the code name Riskier for my board game in honor of RISK one of my favorite board games. RiskierFire is currently one of my github repo's where I am developing an app for my board game. I have learned a ton as a junior developer over the past few months of developing an app alongside a board game.
+ </p>
