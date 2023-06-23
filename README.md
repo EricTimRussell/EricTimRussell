@@ -59,5 +59,5 @@ Contacts
 </p>
  
 <p>
- On a more personal level I enjoying creating models to print on my 3d printer. I am currently working on developing my own military strategy board game where I am 3d printing all the pieces. My wife came up with the code name Riskier for my board game in honor of RISK one of my favorite board games. RiskierFire is currently one of my github repo's where I am developing an app for my board game. I have learned a ton as a junior developer over the past few months of developing an app alongside a board game.
+ On a more personal level I enjoying creating models to print on my 3d printer. I am currently working on developing my own military strategy board game where I am 3d printing all the pieces. My wife came up with the code name Riskier for my board game in honor of RISK one of my favorite board games. RiskierFire is currently one of my github repo's where I am developing an app for my board game. I have learned a ton while developing an app that coincides with a board game. Primarily around making my app friendly on all screen sizes and learning Firebase for my backend at the same time. 
 </p>
