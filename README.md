@@ -38,11 +38,19 @@ What I am Learning and Improving
 </h2>
 <ul>
   <li>Nuxt</li>
-  <li>Vitest</li>
-  <li>TypeScript</li>
+  <li>PHP</li>
+  <li>Shopify</li>
   <li>Vue Ecosystem</li>
 </ul>
 
+<h2>
+My future learning plans
+</h2>
+<ul>
+  <li>Typescript</li>
+  <li>React</li>
+  <li>Wordpress</li>
+</ul>
 
 <h2>
 Contacts
