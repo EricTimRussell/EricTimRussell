@@ -54,11 +54,11 @@ My future learning plans
 <h2>
 Contacts
 </h2>
-<a href="https://www.linkedin.com/in/eric-tim-russell/" target="_blank">
+<a href="https://www.linkedin.com/in/eric-tim-russell/">
 💼LinkedIn
 </a>
 <br>
-<a href="https://erictim-portfolio.netlify.app/" target="_blank"> 
+<a href="https://erictim-portfolio.netlify.app/"> 
 🌐Portfolio Website
 </a>
 
