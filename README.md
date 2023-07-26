@@ -54,7 +54,7 @@ My future learning plans
 <h2>
 Contacts
 </h2>
-<a href="https://www.linkedin.com/in/eric-tim-russell/">
+<a href="https://www.linkedin.com/in/eric-tim-russell/" target="_blank">
 💼LinkedIn
 </a>
 <br>
