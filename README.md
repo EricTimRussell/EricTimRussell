@@ -38,7 +38,7 @@ What I am Learning and Improving
 </h2>
 <ul>
   <li>Nuxt</li>
-  <li>PHP</li>
+  <li>PHP/Laravel</li>
   <li>Shopify</li>
   <li>Vue Ecosystem</li>
 </ul>
