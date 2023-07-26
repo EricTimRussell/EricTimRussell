@@ -30,8 +30,7 @@ About Me
 </h2>
 
 <p>
- 👋Hello there! I am a professionally trained junior software developer thanks to the great teachers at CodeWorks Boise. I have gained the skills and confidence I need from them to pursue my developer goals.
- </p>
+ 👋Hello there! I am a professionally trained junior software developer thanks to the great teachers at CodeWorks Boise.
 
 <h2>
 What I am Learning and Improving
