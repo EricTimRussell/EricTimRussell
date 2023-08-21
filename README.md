@@ -47,7 +47,7 @@ My future learning plans
 </h2>
 <ul>
   <li>Typescript</li>
-  <li>React</li>
+  <li>Inertia.js</li>
   <li>Wordpress</li>
 </ul>
 
