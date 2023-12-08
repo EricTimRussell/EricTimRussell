@@ -37,10 +37,9 @@ About Me
 What I am Learning and Improving
 </h2>
 <ul>
-  <li>PHP/Laravel</li>
-  <li>Inertia.js</li>
-  <li>Shopify</li>
+  <li>Python</li>
   <li>Vue Ecosystem</li>
+  <li>Dart/Flutter</li>
 </ul>
 
 <h2>
@@ -49,7 +48,6 @@ My future learning plans
 <ul>
   <li>Nuxt</li>
   <li>Typescript</li>
-  <li>Wordpress</li>
 </ul>
 
 <h2>
