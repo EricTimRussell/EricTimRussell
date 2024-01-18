@@ -18,11 +18,8 @@
 <h2>
 Backend and Hosting Knowlegde
 </h2>
- 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
@@ -31,22 +28,23 @@ About Me
 </h2>
 
 <p>
- 👋Hello there! I am a professionally trained junior software developer thanks to the great teachers at CodeWorks Boise.
+ 👋Well hello there! I am a junior web developer that build web applications primarily using the jamstack architecture. However, I am currently working on my backend knowledge using Laravel/PHP and mySQL.
+</p>
 
 <h2>
 What I am Learning and Improving
 </h2>
 <ul>
-  <li>Python</li>
   <li>Vue Ecosystem</li>
-  <li>Dart/Flutter</li>
+  <li>Nuxt</li>
+  <li>Laravel/PHP</li>
 </ul>
 
 <h2>
 My future learning plans
 </h2>
 <ul>
-  <li>Nuxt</li>
+  <li>Dart/Flutter</li>
   <li>Typescript</li>
 </ul>
 
