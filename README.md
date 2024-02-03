@@ -1,4 +1,4 @@
-[ComputerMonitorRobots](https://github.com/EricTimRussell/EricTimRussell/assets/99972346/d1c38617-c6af-46f2-a6a9-87cb2db8b462)
+![ComputerMonitorRobotsEdited](https://github.com/EricTimRussell/EricTimRussell/assets/99972346/8b5040c3-a017-442e-a64b-0ac67edbacee)
 
 <h2>
  Frontend Knowlegde
